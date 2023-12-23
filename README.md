@@ -1,0 +1,1 @@
+Mine the Model is a Kaggle Competetion hosted by Cynaptics Club IIT Indore in collaboration with NJack IIT Patna . The competetion revolves around bulding a stock prediction model. For the challenge , we used Long Short Term Memory[LSTM] which is a deep learning model . 
